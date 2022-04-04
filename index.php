@@ -45,8 +45,7 @@ echo "
 ?>
 
 
-<html lang="es">
-
+<html>
   <head>
     <title>Enlistar, Cargar y Eliminar Ficheros en el Servidor</title>
     <meta charset="utf-8">
